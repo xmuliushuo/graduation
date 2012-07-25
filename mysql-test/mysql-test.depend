@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1305031496 source:/home/liushuo/mysql-test/main.cpp
+	<stdio.h>
+	<mysql/mysql.h>
+	<stdlib.h>
+	<pthread.h>
+	<strings.h>
+	<iostream>
+

@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1303801989 source:/home/liushuo/Graduation/RealServer/main.cc
+	"realserver.h"
+
+1304842845 source:/home/liushuo/Graduation/RealServer/realserver.cc
+	"realserver.h"
+
+1304843462 /home/liushuo/Graduation/RealServer/realserver.h
+	"main.h"
+	"ConnPool.h"
+
+1304841345 /home/liushuo/Graduation/RealServer/main.h
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<strings.h>
+	<string.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<fcntl.h>
+	<mysql/mysql.h>
+	<string>
+	<iostream>
+	<vector>
+	<map>
+
+1304841326 source:/home/liushuo/Graduation/RealServer/utils.cc
+	"main.h"
+
+1304842896 source:/home/liushuo/Graduation/RealServer/ConnPool.cc
+	"ConnPool.h"
+	"main.h"
+
+1304842923 /home/liushuo/Graduation/RealServer/ConnPool.h
+	"main.h"
+
+1303801989 source:/home/liushuo/Graduation_Project/RealServer/main.cc
+	"realserver.h"
+
+1305863588 /home/liushuo/Graduation_Project/RealServer/realserver.h
+	"main.h"
+	"ConnPool.h"
+
+1305898684 /home/liushuo/Graduation_Project/RealServer/main.h
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<strings.h>
+	<string.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<fcntl.h>
+	<mysql/mysql.h>
+	<string>
+	<iostream>
+	<vector>
+	<map>
+
+1304842923 /home/liushuo/Graduation_Project/RealServer/ConnPool.h
+	"main.h"
+
+1305863624 source:/home/liushuo/Graduation_Project/RealServer/realserver.cc
+	"realserver.h"
+
+1305898701 source:/home/liushuo/Graduation_Project/RealServer/utils.cc
+	"main.h"
+
+1304842896 source:/home/liushuo/Graduation_Project/RealServer/ConnPool.cc
+	"ConnPool.h"
+	"main.h"
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1305785837 source:/home/liushuo/Graduation_Project/dbop/main.cpp
+	"main.h"
+
+1305785195 /home/liushuo/Graduation_Project/dbop/main.h
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<strings.h>
+	<string.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<fcntl.h>
+	<mysql/mysql.h>
+	<string>
+	<iostream>
+	<vector>
+	<map>
+
+1305785482 source:/home/liushuo/Graduation_Project/dbop/utils.cpp
+	"main.h"
+

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1304837108 source:/home/liushuo/Graduation/client/main.cc
+	"main.h"
+
+1304841340 /home/liushuo/Graduation/client/main.h
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<strings.h>
+	<string.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<fcntl.h>
+	<mysql/mysql.h>
+	<string>
+	<iostream>
+	<vector>
+	<map>
+
+1304778513 source:/home/liushuo/Graduation/client/utils.cc
+	"main.h"
+
+1304841329 source:/home/liushuo/Graduation_Project/client/utils.cc
+	"main.h"
+
+1304841340 /home/liushuo/Graduation_Project/client/main.h
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<strings.h>
+	<string.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<time.h>
+	<errno.h>
+	<fcntl.h>
+	<mysql/mysql.h>
+	<string>
+	<iostream>
+	<vector>
+	<map>
+
+1305039131 source:/home/liushuo/Graduation_Project/client/main.cc
+	"main.h"
+
